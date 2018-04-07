@@ -1,0 +1,261 @@
+# Franklin Weng <franklin@mail.everfocus.com.tw>, 2010, 2011.
+# Franklin Weng <franklin@goodhorse.idv.tw>, 2010, 2011, 2012, 2013, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-04-24 11:15+0000\n"
+"PO-Revision-Date: 2015-12-13 13:14+0800\n"
+"Last-Translator: Franklin\n"
+"Language-Team: Chinese Traditional <zh-l10n@linux.org.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: discover/muon-contenttheme/metadata.desktop:2
+msgctxt "Name"
+msgid "Application dashboard"
+msgstr "應用程式控制面板"
+
+#: discover/muon-contenttheme/metadata.desktop:47
+msgctxt "Comment"
+msgid "Intended as Application dashboard default"
+msgstr "應用程式預設控制面板"
+
+#: discover/org.kde.discover.desktop:2
+msgctxt "Name"
+msgid "Muon Discover"
+msgstr "Muon 軟體中心"
+
+#: discover/org.kde.discover.desktop:51
+msgctxt "GenericName"
+msgid "Software Center"
+msgstr "軟體中心"
+
+#: discover/org.kde.discover.desktop:99
+msgctxt "Keywords"
+msgid ""
+"program;software;repository;package;install;remove;update;apps;applications;"
+msgstr ""
+"program;software;repository;package;install;remove;update;apps;applications;"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend.desktop:6
+msgctxt "Comment"
+msgid "Install and browse applications in Chakra"
+msgstr "在 Chakra 中安裝並瀏覽應用程式"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend.desktop:48
+msgctxt "Name"
+msgid "Akabei Backend"
+msgstr "Akabei 後端介面"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend.desktop:88
+msgctxt "GenericName"
+msgid "Chakra Support"
+msgstr "Chakra 支援"
+
+#: libmuon/backends/AkabeiBackend/muonakabeinotifier.desktop:2
+msgctxt "Name"
+msgid "Muon Akabei Notifier"
+msgstr "Muon Akabei 通知器"
+
+#: libmuon/backends/ApplicationBackend/muonapplicationnotifier.notifyrc:3
+msgctxt "Comment"
+msgid "Muon Application Backend Notifier"
+msgstr "Muon 應用程式後端介面通知器"
+
+#: libmuon/backends/ApplicationBackend/muonapplicationnotifier.notifyrc:45
+msgctxt "Name"
+msgid "Upgrade Available"
+msgstr "有可用的更新"
+
+#: libmuon/backends/ApplicationBackend/muonapplicationnotifier.notifyrc:92
+msgctxt "Comment"
+msgid "A new version of Kubuntu is available"
+msgstr "已經有新版本的 Kubuntu"
+
+#: libmuon/backends/ApplicationBackend/muon-applications-backend.desktop:6
+msgctxt "Comment"
+msgid "Install and browse applications in APT"
+msgstr "在 APT 內安裝並瀏覽應用程式"
+
+#: libmuon/backends/ApplicationBackend/muon-applications-backend.desktop:50
+msgctxt "Name"
+msgid "Applications Backend"
+msgstr "應用程式後端介面"
+
+#: libmuon/backends/ApplicationBackend/muon-applications-backend.desktop:94
+msgctxt "GenericName"
+msgid "APT Support"
+msgstr "APT 支援"
+
+#: libmuon/backends/BodegaBackend/muon-bodegawallpapers-backend.desktop:6
+msgctxt "Name"
+msgid "Bodega Wallpapers"
+msgstr "Bodega 桌布"
+
+#: libmuon/backends/BodegaBackend/muon-bodegawallpapers-backend.desktop:49
+msgctxt "GenericName"
+msgid "Wallpapers"
+msgstr "桌布"
+
+#: libmuon/backends/BodegaBackend/muon-bodegawallpapers-backend.desktop:95
+msgctxt "Comment"
+msgid "Install new, awesome wallpapers for your KDE!"
+msgstr "為您的 KDE 安裝新的、美美的桌布！"
+
+#: libmuon/backends/DummyBackend/muon-dummy-backend.desktop:6
+msgctxt "Name"
+msgid "Dummy"
+msgstr "虛擬"
+
+#: libmuon/backends/DummyBackend/muon-dummy-backend.desktop:50
+msgctxt "GenericName"
+msgid "Dummy"
+msgstr "虛擬"
+
+#: libmuon/backends/DummyBackend/muon-dummy-backend.desktop:94
+msgctxt "Comment"
+msgid "It's some dummy backend for testing purposes"
+msgstr "測試用的虛擬後端介面"
+
+#: libmuon/backends/KNSBackend/muon-knscomics-backend.desktop:6
+msgctxt "Name"
+msgid "Comics"
+msgstr "漫畫"
+
+#: libmuon/backends/KNSBackend/muon-knscomics-backend.desktop:50
+msgctxt "GenericName"
+msgid "Comics"
+msgstr "漫畫"
+
+#: libmuon/backends/KNSBackend/muon-knscomics-backend.desktop:94
+msgctxt "Comment"
+msgid "Install comic stripes to be used from the comics plasmoid"
+msgstr "安裝漫畫給漫畫小元件"
+
+#: libmuon/backends/KNSBackend/muon-knsplasmoids-backend.desktop:6
+msgctxt "Name"
+msgid "Plasmoids"
+msgstr "小元件"
+
+#: libmuon/backends/KNSBackend/muon-knsplasmoids-backend.desktop:50
+msgctxt "GenericName"
+msgid "Plasmoids"
+msgstr "小元件"
+
+#: libmuon/backends/KNSBackend/muon-knsplasmoids-backend.desktop:94
+msgctxt "Comment"
+msgid "Install plasmoids and raise the power of your workspace!"
+msgstr "安裝小元件，提升您的工作空間的能量！"
+
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend.desktop:6
+msgctxt "Comment"
+msgid "Install and browse applications in PackageKit"
+msgstr "在 PackageKit 中安裝並瀏覽應用程式"
+
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend.desktop:48
+msgctxt "Name"
+msgid "PackageKit Support"
+msgstr "PackageKit 支援"
+
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend.desktop:90
+msgctxt "GenericName"
+msgid "Applications Backend"
+msgstr "應用程式後端介面"
+
+#: libmuon/resources/muonabstractnotifier.notifyrc:3
+msgctxt "Comment"
+msgid "Muon"
+msgstr "Muon"
+
+#: libmuon/resources/muonabstractnotifier.notifyrc:47
+msgctxt "Name"
+msgid "Updates Are Available"
+msgstr "有可用的更新"
+
+#: libmuon/resources/muonabstractnotifier.notifyrc:93
+msgctxt "Comment"
+msgid "Updates Available"
+msgstr "有可用的更新"
+
+#: muon/muon.desktop:2
+msgctxt "Name"
+msgid "Muon Package Manager"
+msgstr "Muon 套件管理員"
+
+#: muon/muon.desktop:53
+msgctxt "GenericName"
+msgid "Package Manager"
+msgstr "套件管理器"
+
+#: muon/muon.desktop:101
+msgctxt "X-KDE-Keywords"
+msgid "program,software,repository,archive,package,install,remove,update,deb"
+msgstr "program,software,repository,archive,package,install,remove,update,deb"
+
+#: notifier/MuonNotifier.desktop:2
+msgctxt "Name"
+msgid "Muon Notifier"
+msgstr "Muon 通知器"
+
+#: notifier/plasmoid/metadata.desktop:2
+msgctxt "Name"
+msgid "Updates"
+msgstr "更新"
+
+#: notifier/plasmoid/metadata.desktop:40
+msgctxt "Comment"
+msgid "Helps you keep your system up to date"
+msgstr "協助您的系統更新到最新狀態"
+
+#: updater/muon-updater.desktop:2
+msgctxt "Name"
+msgid "Muon Update Manager"
+msgstr "Muon 更新管理員"
+
+#: updater/muon-updater.desktop:53
+msgctxt "GenericName"
+msgid "Update Manager"
+msgstr "更新管理員"
+
+#~ msgctxt "Name"
+#~ msgid "Correct"
+#~ msgstr "修正"
+
+#~ msgctxt "Name"
+#~ msgid "Wrong"
+#~ msgstr "錯誤"
+
+#~ msgctxt "Name"
+#~ msgid "Install More..."
+#~ msgstr "安裝更多..."
+
+#~ msgctxt "Name"
+#~ msgid "Muon Software Center"
+#~ msgstr "Muon 軟體中心"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Application Notifier"
+#~ msgstr "Muon 應用程式通知器"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Dummy Notifier"
+#~ msgstr "Muon Dummy 通知器"
+
+#~| msgctxt "Name"
+#~| msgid "Muon Notifier"
+#~ msgctxt "Name"
+#~ msgid "Muon PackageKit Notifier"
+#~ msgstr "Muon PackageKit 通知器"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Backend"
+#~ msgstr "Muon 後端介面"
+
+#~ msgctxt "Comment"
+#~ msgid "System Notification"
+#~ msgstr "系統通知"

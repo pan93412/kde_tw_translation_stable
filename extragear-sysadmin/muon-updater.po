@@ -1,0 +1,410 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Franklin Weng <franklin@mail.everfocus.com.tw>, 2010, 2012.
+# Franklin Weng <franklin@goodhorse.idv.tw>, 2010, 2011, 2012, 2013, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:45+0100\n"
+"PO-Revision-Date: 2015-06-09 17:17+0800\n"
+"Last-Translator: Franklin\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Franklin Weng"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "franklin@goodhorse.idv.tw"
+
+#: updater/ChangelogWidget.cpp:54
+#, kde-format
+msgctxt "@action:button"
+msgid "Hide"
+msgstr "隱藏"
+
+#: updater/ChangelogWidget.cpp:153
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid "<p><b>Package Name:</b> <a href='package:%1'>%1</a></p>"
+msgstr "<p><b>套件名稱：</b><a href='package:%1'>%1</a></p>"
+
+#: updater/ChangelogWidget.cpp:154
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid "<p><b>Installed Version:</b> %1</p>"
+msgstr "<p><b>安裝的版本：</b>%1</p>"
+
+#: updater/main.cpp:37
+#, kde-format
+msgid "Muon Update Manager"
+msgstr "Muon 更新管理員"
+
+#: updater/main.cpp:37
+#, kde-format
+msgid "An update manager"
+msgstr "更新管理員"
+
+#: updater/main.cpp:38
+#, kde-format
+msgid "©2010-2013 Jonathan Thomas"
+msgstr "©2010-2013 Jonathan Thomas"
+
+#: updater/main.cpp:39
+#, kde-format
+msgid "Jonathan Thomas"
+msgstr "Jonathan Thomas"
+
+#: updater/main.cpp:40
+#, kde-format
+msgid "Aleix Pol"
+msgstr "Aleix Pol"
+
+#: updater/main.cpp:46
+#, kde-format
+msgid "List all the backends we'll want to have loaded, separated by coma ','."
+msgstr "列出所有我們打算載入的後端介面，以逗號 ',' 分隔。"
+
+#: updater/MainWindow.cpp:70
+#, kde-format
+msgctxt "@title:window"
+msgid "Software Updates"
+msgstr "軟體更新"
+
+#: updater/MainWindow.cpp:79
+#, kde-format
+msgctxt "@info Warning to plug in laptop before updating"
+msgid "It is safer to plug in the power adapter before updating."
+msgstr "最好在更新前插入市電電源。"
+
+#: updater/MainWindow.cpp:120
+#, kde-format
+msgctxt "@action Downloads and installs updates"
+msgid "Install Updates"
+msgstr "安裝更新"
+
+#: updater/MainWindow.cpp:130
+#, kde-format
+msgid "Advanced..."
+msgstr "進階..."
+
+#: updater/ProgressWidget.cpp:117
+#, kde-format
+msgctxt "@label Download rate"
+msgid "Download rate: %1/s"
+msgstr "下載速度：%1/秒"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, UpdaterWidgetNoUpdates)
+#. i18n: ectx: property (windowTitle), widget (QWidget, UpdaterButtons)
+#. i18n: ectx: property (windowTitle), widget (QWidget, ProgressWidget)
+#: updater/ProgressWidget.ui:14 updater/UpdaterCentralWidget.ui:14
+#: updater/UpdaterWidgetNoUpdates.ui:14 updaterrc.cpp:3 updaterrc.cpp:6
+#: updaterrc.cpp:12
+#, kde-format
+msgid "Form"
+msgstr "表單"
+
+#. i18n: ectx: property (text), widget (QPushButton, cancel)
+#: updater/ProgressWidget.ui:36 updaterrc.cpp:15
+#, kde-format
+msgid "Cancel"
+msgstr "取消"
+
+#: updater/UpdateModel/UpdateModel.cpp:116
+#, kde-format
+msgctxt "@label Column label"
+msgid "Updates"
+msgstr "更新"
+
+#: updater/UpdateModel/UpdateModel.cpp:118
+#, kde-format
+msgctxt "@label Column label"
+msgid "Version"
+msgstr "版本"
+
+#: updater/UpdateModel/UpdateModel.cpp:120
+#, kde-format
+msgctxt "@label Column label"
+msgid "Download Size"
+msgstr "下載大小"
+
+#: updater/UpdateModel/UpdateModel.cpp:228
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Important Security Updates"
+msgstr "重要安全性更新"
+
+#: updater/UpdateModel/UpdateModel.cpp:231
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Application Updates"
+msgstr "應用程式更新"
+
+#: updater/UpdateModel/UpdateModel.cpp:234
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "System Updates"
+msgstr "系統更新"
+
+#. i18n: ectx: property (text), widget (QPushButton, more)
+#: updater/UpdaterCentralWidget.ui:23 updaterrc.cpp:9
+#, kde-format
+msgid "More..."
+msgstr "更多..."
+
+#: updater/UpdaterWidget.cpp:72
+#, kde-format
+msgctxt "@label"
+msgid ""
+"<em>Some packages were not marked for update.</em><p/>The update of these "
+"packages need some others to be installed or removed.<p/>Do you want to "
+"update those too?"
+msgstr ""
+"<em>有些套件並未標記更新。</em><p/>這些套件的更新需要安裝或移除其他的套件。"
+"<p/>您也要同時更新這些套件嗎？"
+
+#: updater/UpdaterWidget.cpp:75
+#, kde-format
+msgid "Mark All"
+msgstr "全部標記"
+
+#: updater/UpdaterWidget.cpp:89
+#, kde-format
+msgid ""
+"<p><b>New software is available for your computer</b></p><p>Click 'Install "
+"Updates' to keep your system up-to-date and safe</p>"
+msgstr ""
+"<p><b>新的軟體已經可安裝到您的電腦</b></p><p>點擊「安裝更新」以便讓您的系統保"
+"持在最新與最安全的狀態。</p>"
+
+#: updater/UpdaterWidget.cpp:218
+#, kde-format
+msgctxt "@info"
+msgid "It is unknown when the last check for updates was."
+msgstr "不知道上次檢查更新的時間。"
+
+#: updater/UpdaterWidget.cpp:219 updater/UpdaterWidget.cpp:237
+#, kde-format
+msgctxt "@info"
+msgid "Please click <em>Check for Updates</em> to check."
+msgstr "請點擊「檢查更新」來檢查。"
+
+#: updater/UpdaterWidget.cpp:226
+#, kde-format
+msgctxt "@info"
+msgid "The software on this computer is up to date."
+msgstr "此電腦上的軟體已經是最新版。"
+
+#: updater/UpdaterWidget.cpp:227 updater/UpdaterWidget.cpp:232
+#, kde-format
+msgctxt "@info"
+msgid "Last checked %1 ago."
+msgstr "上次檢查於 %1 之前。"
+
+#: updater/UpdaterWidget.cpp:231
+#, kde-format
+msgctxt "@info"
+msgid "No updates are available."
+msgstr "沒有可用的更新。"
+
+#: updater/UpdaterWidget.cpp:236
+#, kde-format
+msgctxt "@info"
+msgid "The last check for updates was over a week ago."
+msgstr "上次檢查更新的時間已超過一週"
+
+#~ msgctxt "@title:window"
+#~ msgid "Muon Preferences"
+#~ msgstr "Muon 喜好設定"
+
+#~ msgctxt "@title:group"
+#~ msgid "Notifications"
+#~ msgstr "通知"
+
+#~ msgid "Shows the selected package on Muon Discover"
+#~ msgstr "在 Muon 探詢器上顯示選取的套件"
+
+#~ msgctxt "@info/rich"
+#~ msgid ""
+#~ "The list of changes is not yet available. Please use <link "
+#~ "url='%1'>Launchpad</link> instead."
+#~ msgstr "尚無法取得變更清單。請改用 <link url='%1'>Launchpad</link>。"
+
+#~ msgctxt "@info"
+#~ msgid "The list of changes is not yet available."
+#~ msgstr "尚無法取得變更清單。"
+
+#~ msgctxt "@info:label Refers to a software version, Ex: Version 1.2.1:"
+#~ msgid "Version %1:"
+#~ msgstr "版本 %1："
+
+#~ msgctxt "@info:label"
+#~ msgid "This update was issued on %1"
+#~ msgstr "此變更於 %1 發出"
+
+#~ msgctxt "Notification when a new version of Kubuntu is available"
+#~ msgid "A new version of Kubuntu is available."
+#~ msgstr "已經有新版本的 Kubuntu。"
+
+#~ msgctxt "@action::inmenu"
+#~ msgid "History..."
+#~ msgstr "歷史紀錄..."
+
+#~ msgctxt "@action"
+#~ msgid "Upgrade"
+#~ msgstr "更新"
+
+#~ msgctxt "@title:window"
+#~ msgid "Package History"
+#~ msgstr "套件歷史紀錄"
+
+#~ msgctxt "@info Status info, widget title"
+#~ msgid "<title>Starting</title>"
+#~ msgstr "<title>啟動中</title>"
+
+#~ msgctxt "@info Status info, widget title"
+#~ msgid "<title>Waiting for Authentication</title>"
+#~ msgstr "<title>等待認證中</title>"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "<title>Waiting</title>"
+#~ msgstr "<title>等待中</title>"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for other transactions to finish"
+#~ msgstr "等待其它的動作完成"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for other software managers to quit"
+#~ msgstr "等待其他的軟體管理員離開中。"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for required medium"
+#~ msgstr "等待請求的媒體中"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for configuration file"
+#~ msgstr "等待設定檔中"
+
+#~ msgctxt "@info Status info"
+#~ msgid "<title>Loading Software List</title>"
+#~ msgstr "<title>載入軟體清單中</title>"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "<title>Updating software sources</title>"
+#~ msgstr "<title>更新軟體來源中</title>"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "<title>Downloading Packages</title>"
+#~ msgstr "<title>下載套件中</title>"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "<title>Applying Changes</title>"
+#~ msgstr "<title>套用變更中</title>"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "<title>Finished</title>"
+#~ msgstr "<title>已完成</title>"
+
+#~ msgctxt "@title:window"
+#~ msgid "Media Change Required"
+#~ msgstr "需要變更媒體"
+
+#~ msgctxt "@label"
+#~ msgid "Please insert %1 into <filename>%2</filename>"
+#~ msgstr "請插入 %1 到 <filename>%2</filename>"
+
+#~ msgctxt "@title:window"
+#~ msgid "Warning - Unverified Software"
+#~ msgstr "警告 - 未確認的軟體"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The following piece of software cannot be verified. <warning>Installing "
+#~ "unverified software represents a security risk, as the presence of "
+#~ "unverifiable software can be a sign of tampering.</warning> Do you wish "
+#~ "to continue?"
+#~ msgid_plural ""
+#~ "The following pieces of software cannot be verified. <warning>Installing "
+#~ "unverified software represents a security risk, as the presence of "
+#~ "unverifiable software can be a sign of tampering.</warning> Do you wish "
+#~ "to continue?"
+#~ msgstr[0] ""
+#~ "以下的軟體無法確認。 <warning>安裝未被確認過的軟體可能有安全性上的風險，有"
+#~ "可能是惡意第三方所提供。</warning>您確定要繼續嗎？"
+
+#~ msgctxt "@title:window"
+#~ msgid "Configuration File Changed"
+#~ msgstr "設定檔已變更"
+
+#~ msgctxt "@label Notifies a config file change"
+#~ msgid ""
+#~ "A new version of the configuration file <filename>%1</filename> is "
+#~ "available, but your version has been modified. Would you like to keep "
+#~ "your current version or install the new version?"
+#~ msgstr ""
+#~ "新版本的設定檔 <filename>%1</filename> 筆可使用，但您的版本已被變更。您要"
+#~ "保留您目前的版本，還是安裝新版本？"
+
+#~ msgctxt "@action Use the new config file"
+#~ msgid "Use New Version"
+#~ msgstr "使用新版本"
+
+#~ msgctxt "@action Keep the old config file"
+#~ msgid "Keep Old Version"
+#~ msgstr "保留舊版本"
+
+#~ msgctxt "@item:intext Remaining time"
+#~ msgid "%1 remaining"
+#~ msgstr " 還剩 %1"
+
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Not all packages could be marked for upgrade. The available upgrades may "
+#~ "require new packages to be installed or removed. Do you want to mark "
+#~ "upgrades that may require the installation or removal of additional "
+#~ "packages?"
+#~ msgstr ""
+#~ "並非所有的套件都能被標記為更新。可用的更新可能需要安裝新的套件或是移除某些"
+#~ "套件。您要標記這些需要安裝或移除其他套用的更新嗎？"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unable to Mark Upgrades"
+#~ msgstr "無法標記更新"
+
+#~ msgctxt "@action"
+#~ msgid "Mark Upgrades"
+#~ msgstr "標記更新"
+
+#~ msgctxt "@action"
+#~ msgid "Save Package Download List..."
+#~ msgstr "儲存套件下載清單..."
+
+#~ msgctxt "@action"
+#~ msgid "Download Packages From List..."
+#~ msgstr "下載清單中的套件..."
+
+#~ msgctxt "@action"
+#~ msgid "Add Downloaded Packages"
+#~ msgstr "新增已下載套件"
+
+#~ msgctxt "@info"
+#~ msgid "<title>Installing Updates</title>"
+#~ msgstr "<title>安裝更新中</title>"
+
+#~ msgid "<b>Update Packages</b>"
+#~ msgstr "<b>更新套件</b>"

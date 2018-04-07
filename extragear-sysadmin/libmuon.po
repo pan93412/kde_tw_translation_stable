@@ -1,0 +1,3080 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Franklin Weng <franklin@mail.everfocus.com.tw>, 2010, 2012.
+# Franklin Weng <franklin at goodhorse dot idv dot tw>, 2010.
+# Franklin Weng <franklin@goodhorse.idv.tw>, 2010, 2011, 2012, 2013, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:45+0100\n"
+"PO-Revision-Date: 2015-06-09 17:15+0800\n"
+"Last-Translator: Franklin\n"
+"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: libmuon/backends/AkabeiBackend/AkabeiTransaction.cpp:180
+#: libmuon/backends/AkabeiBackend/AkabeiUpdater.cpp:182
+#, kde-format
+msgid "Something went wrong!"
+msgstr "有些事不對勁。"
+
+#: libmuon/backends/AkabeiBackend/AkabeiTransaction.cpp:181
+#: libmuon/backends/AkabeiBackend/AkabeiUpdater.cpp:61
+#: libmuon/backends/AkabeiBackend/AkabeiUpdater.cpp:183
+#, kde-format
+msgid "Error"
+msgstr "錯誤"
+
+#: libmuon/backends/AkabeiBackend/AkabeiTransaction.cpp:184
+#, kde-format
+msgid "There are a couple of transaction messages:"
+msgstr "這裡有一些工作階段訊息："
+
+#: libmuon/backends/AkabeiBackend/AkabeiTransaction.cpp:184
+#, kde-format
+msgid "Transaction messages"
+msgstr "工作階段訊息"
+
+#: libmuon/backends/AkabeiBackend/AkabeiUpdater.cpp:61
+#, kde-format
+msgid "Another transaction is still running!"
+msgstr "另一個工作階段進行中。"
+
+#: libmuon/backends/AkabeiBackend/AkabeiUpdater.cpp:87
+#, kde-format
+msgid "Started downloading packages..."
+msgstr "已開始下載套件..."
+
+#: libmuon/backends/AkabeiBackend/AkabeiUpdater.cpp:91
+#, kde-format
+msgid "Started processing packages..."
+msgstr "已開始處理套件..."
+
+#: libmuon/backends/AkabeiBackend/AkabeiUpdater.cpp:109
+#, kde-format
+msgid "Started downloading %1..."
+msgstr "已開始下載 %1..."
+
+#: libmuon/backends/AkabeiBackend/AkabeiUpdater.cpp:113
+#, kde-format
+msgid "Started processing %1..."
+msgstr "已開始處理 %1..."
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:5
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:5
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:5
+#, kde-format
+msgctxt "Category"
+msgid "Accessories"
+msgstr "附屬應用程式"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:16
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:16
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:16
+#, kde-format
+msgctxt "Category"
+msgid "Accessibility"
+msgstr "無障礙輔助"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:27
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:27
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:27
+#, kde-format
+msgctxt "Category"
+msgid "Developer Tools"
+msgstr "程式開發工具"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:42
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:42
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:38
+#, kde-format
+msgctxt "Category"
+msgid "Debugging"
+msgstr "除錯"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:52
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:52
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:48
+#, kde-format
+msgctxt "Category"
+msgid "Graphic Interface Design"
+msgstr "圖形介面設計"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:61
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:61
+#, kde-format
+msgctxt "Category"
+msgid "Haskell"
+msgstr "Haskell"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:74
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:74
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:57
+#, kde-format
+msgctxt "Category"
+msgid "IDEs"
+msgstr "整合開發環境"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:83
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:83
+#, kde-format
+msgctxt "Category"
+msgid "Java"
+msgstr "Java"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:96
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:96
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:66
+#, kde-format
+msgctxt "Category"
+msgid "Localization"
+msgstr "本地化"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:106
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:106
+#, kde-format
+msgctxt "Category"
+msgid "Perl"
+msgstr "Perl"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:118
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:118
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:76
+#, kde-format
+msgctxt "Category"
+msgid "Profiling"
+msgstr "效能測試"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:127
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:127
+#, kde-format
+msgctxt "Category"
+msgid "Python"
+msgstr "Python"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:140
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:140
+#, kde-format
+msgctxt "Category"
+msgid "Version Control"
+msgstr "版本控制系統"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:154
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:154
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:85
+#, kde-format
+msgctxt "Category"
+msgid "Web Development"
+msgstr "網頁開發"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:167
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:167
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:98
+#, kde-format
+msgctxt "Category"
+msgid "Education"
+msgstr "教育"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:181
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:181
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:112
+#, kde-format
+msgctxt "Category"
+msgid "Science & Engineering"
+msgstr "科學與工程"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:190
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:190
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:121
+#, kde-format
+msgctxt "Category"
+msgid "Astronomy"
+msgstr "天文學"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:198
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:198
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:129
+#, kde-format
+msgctxt "Category"
+msgid "Biology"
+msgstr "生物學"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:206
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:206
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:137
+#, kde-format
+msgctxt "Category"
+msgid "Chemistry"
+msgstr "化學"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:215
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:215
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:146
+#, kde-format
+msgctxt "Category"
+msgid "Computer Science & Robotics"
+msgstr "電腦科學與機器人學"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:226
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:226
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:157
+#, kde-format
+msgctxt "Category"
+msgid "Electronics"
+msgstr "電子學"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:235
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:235
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:166
+#, kde-format
+msgctxt "Category"
+msgid "Engineering"
+msgstr "工程計算"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:244
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:244
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:175
+#, kde-format
+msgctxt "Category"
+msgid "Geography"
+msgstr "地理"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:252
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:252
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:183
+#, kde-format
+msgctxt "Category"
+msgid "Geology"
+msgstr "地質學"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:261
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:261
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:192
+#, kde-format
+msgctxt "Category"
+msgid "Mathematics"
+msgstr "數學"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:280
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:280
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:203
+#, kde-format
+msgctxt "Category"
+msgid "Physics"
+msgstr "物理屬性"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:291
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:291
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:214
+#, kde-format
+msgctxt "Category"
+msgid "Fonts"
+msgstr "字型"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:307
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:307
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:225
+#, kde-format
+msgctxt "Category"
+msgid "Games"
+msgstr "遊戲"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:316
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:316
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:234
+#, kde-format
+msgctxt "Category"
+msgid "Arcade"
+msgstr "大型遊戲機遊戲"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:325
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:325
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:243
+#, kde-format
+msgctxt "Category"
+msgid "Board Games"
+msgstr "棋盤遊戲"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:334
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:334
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:252
+#, kde-format
+msgctxt "Category"
+msgid "Card Games"
+msgstr "紙牌遊戲"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:343
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:343
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:261
+#, kde-format
+msgctxt "Category"
+msgid "Puzzles"
+msgstr "解謎遊戲"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:352
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:352
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:270
+#, kde-format
+msgctxt "Category"
+msgid "Role Playing"
+msgstr "角色扮演"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:361
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:361
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:279
+#, kde-format
+msgctxt "Category"
+msgid "Simulation"
+msgstr "模擬"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:370
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:370
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:288
+#, kde-format
+msgctxt "Category"
+msgid "Sports"
+msgstr "運動"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:383
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:383
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:301
+#, kde-format
+msgctxt "Category"
+msgid "Graphics"
+msgstr "美工繪圖"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:391
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:391
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:309
+#, kde-format
+msgctxt "Category"
+msgid "3D"
+msgstr "立體"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:399
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:399
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:317
+#, kde-format
+msgctxt "Category"
+msgid "Drawing"
+msgstr "繪圖"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:411
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:411
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:329
+#, kde-format
+msgctxt "Category"
+msgid "Painting & Editing"
+msgstr "繪圖與編輯"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:424
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:424
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:342
+#, kde-format
+msgctxt "Category"
+msgid "Photography"
+msgstr "攝影"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:433
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:433
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:351
+#, kde-format
+msgctxt "Category"
+msgid "Publishing"
+msgstr "出版"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:442
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:442
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:360
+#, kde-format
+msgctxt "Category"
+msgid "Scanning & OCR"
+msgstr "掃描與光學辨識"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:452
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:452
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:370
+#, kde-format
+msgctxt "Category"
+msgid "Viewers"
+msgstr "檢視器"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:464
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:464
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:382
+#, kde-format
+msgctxt "Category"
+msgid "Internet"
+msgstr "網際網路"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:472
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:472
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:390
+#, kde-format
+msgctxt "Category"
+msgid "Chat"
+msgstr "聊天"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:482
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:482
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:400
+#, kde-format
+msgctxt "Category"
+msgid "File Sharing"
+msgstr "檔案分享"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:491
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:491
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:409
+#, kde-format
+msgctxt "Category"
+msgid "Mail"
+msgstr "郵件"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:500
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:500
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:418
+#, kde-format
+msgctxt "Category"
+msgid "Web Browsers"
+msgstr "網頁伺服器"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:512
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:512
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:430
+#, kde-format
+msgctxt "Category"
+msgid "Multimedia"
+msgstr "多媒體"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:523
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:523
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:441
+#, kde-format
+msgctxt "Category"
+msgid "Office"
+msgstr "辦公軟體"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:533
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:533
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:451
+#, kde-format
+msgctxt "Category"
+msgid "System & Settings"
+msgstr "系統設定"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:544
+#: libmuon/backends/ApplicationBackend/muon-applications-backend-categories.xml:544
+#: libmuon/backends/KNSBackend/muon-knsplasmoids-backend-categories.xml:4
+#: libmuon/backends/PackageKitBackend/muon-packagekit-backend-categories.xml:462
+#, kde-format
+msgctxt "Category"
+msgid "Plasma Desktop Widgets"
+msgstr "Plasma 桌面元件"
+
+#: libmuon/backends/AkabeiBackend/muon-akabei-backend-categories.xml:554
+#, kde-format
+msgctxt "Category"
+msgid "Unknown"
+msgstr "未知"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:102
+#, kde-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:188
+#, kde-format
+msgid "Applications"
+msgstr "應用程式"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:292
+#, kde-format
+msgctxt "@info license"
+msgid "Open Source"
+msgstr "開放源碼"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:294
+#, kde-format
+msgctxt "@info license"
+msgid "Proprietary"
+msgstr "私有授權"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:296
+#, kde-format
+msgctxt "@info license"
+msgid "Unknown"
+msgstr "未知"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:428
+#, kde-format
+msgctxt "@info app size"
+msgid "%1 to download, %2 on disk"
+msgstr "%1 個準備下載，%2 個在磁碟中"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:432
+#, kde-format
+msgctxt "@info app size"
+msgid "%1 on disk"
+msgstr "%1 個在磁碟中"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:603
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"The list of changes is not yet available. Please use <link "
+"url='%1'>Launchpad</link> instead."
+msgstr "尚無法取得變更清單。請改用 <link url='%1'>Launchpad</link>。"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:607
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The list of changes is not yet available."
+msgstr "尚無法取得變更清單。"
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:626
+#: libmuon/backends/BodegaBackend/BodegaResource.cpp:95
+#, kde-format
+msgctxt "@info:label Refers to a software version, Ex: Version 1.2.1:"
+msgid "Version %1:"
+msgstr "版本 %1："
+
+#: libmuon/backends/ApplicationBackend/Application.cpp:631
+#: libmuon/backends/BodegaBackend/BodegaResource.cpp:99
+#, kde-format
+msgctxt "@info:label"
+msgid "This update was issued on %1"
+msgstr "此變更於 %1 發出"
+
+#: libmuon/backends/ApplicationBackend/ApplicationBackend.cpp:540
+#: libmuon/backends/DummyBackend/DummyBackend.cpp:62
+#: libmuon/backends/PackageKitBackend/PackageKitBackend.cpp:64
+#: libmuon/backends/PackageKitBackend/PackageKitUpdater.cpp:45
+#, kde-format
+msgctxt "@action Checks the Internet for updates"
+msgid "Check for Updates"
+msgstr "檢查更新"
+
+#: libmuon/backends/ApplicationBackend/ApplicationNotifier.cpp:89
+#, kde-format
+msgid "System update available!"
+msgstr "系統有更新套件可用！"
+
+#: libmuon/backends/ApplicationBackend/ApplicationNotifier.cpp:91
+#, kde-format
+msgctxt "Notification when a new version of Kubuntu is available"
+msgid "A new version of Kubuntu is available"
+msgstr "已經有新版本的 Kubuntu"
+
+#: libmuon/backends/ApplicationBackend/ApplicationNotifier.cpp:96
+#, kde-format
+msgid "Upgrade"
+msgstr "更新"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:255
+#, kde-format
+msgctxt "@title:window"
+msgid "Media Change Required"
+msgstr "需要變更媒體"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:256
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Please insert %1 into <filename>%2</filename>"
+msgstr "請插入 %1 到 <filename>%2</filename>"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:265
+#, kde-format
+msgctxt "@title:window"
+msgid "Warning - Unverified Software"
+msgstr "警告 - 未確認的軟體"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:267
+#, kde-kuit-format
+msgctxt "@label"
+msgid ""
+"The following piece of software cannot be verified. <warning>Installing "
+"unverified software represents a security risk, as the presence of "
+"unverifiable software can be a sign of tampering.</warning> Do you wish to "
+"continue?"
+msgid_plural ""
+"The following pieces of software cannot be verified. <warning>Installing "
+"unverified software represents a security risk, as the presence of "
+"unverifiable software can be a sign of tampering.</warning> Do you wish to "
+"continue?"
+msgstr[0] ""
+"以下的軟體無法確認。 <warning>安裝未被確認過的軟體可能有安全性上的風險，有可"
+"能是惡意第三方所提供。</warning>您確定要繼續嗎？"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:285
+#, kde-format
+msgctxt "@title:window"
+msgid "Configuration File Changed"
+msgstr "設定檔已變更"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:287
+#, kde-kuit-format
+msgctxt "@label Notifies a config file change"
+msgid ""
+"A new version of the configuration file <filename>%1</filename> is "
+"available, but your version has been modified. Would you like to keep your "
+"current version or install the new version?"
+msgstr ""
+"目前有新版本的設定檔 <filename>%1</filename>，但是您的版本已變更。您要保存您"
+"現有的版本，還是更新到新版本？"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:292
+#, kde-format
+msgctxt "@action Use the new config file"
+msgid "Use New Version"
+msgstr "使用新版本"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:293
+#, kde-format
+msgctxt "@action Keep the old config file"
+msgid "Keep Old Version"
+msgstr "保持舊版本"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:309
+#, kde-format
+msgctxt "@info Status info, widget title"
+msgid "Starting"
+msgstr "啟動中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:314
+#, kde-format
+msgctxt "@info Status info, widget title"
+msgid "Waiting for Authentication"
+msgstr "等待認證中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:319
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:326
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:333
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:340
+#, kde-format
+msgctxt "@info Status information, widget title"
+msgid "Waiting"
+msgstr "等待中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:321
+#, kde-format
+msgctxt "@info Status info"
+msgid "Waiting for other transactions to finish"
+msgstr "等待其它的動作完成"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:328
+#, kde-format
+msgctxt "@info Status info"
+msgid "Waiting for other software managers to quit"
+msgstr "等待其他的軟體管理員離開中。"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:335
+#, kde-format
+msgctxt "@info Status info"
+msgid "Waiting for required medium"
+msgstr "等待請求的媒體中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:342
+#, kde-format
+msgctxt "@info Status info"
+msgid "Waiting for configuration file"
+msgstr "等待設定檔中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:352
+#, kde-format
+msgctxt "@info Status info"
+msgid "Loading Software List"
+msgstr "載入軟體清單中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:358
+#, kde-format
+msgctxt "@info Status information, widget title"
+msgid "Updating software sources"
+msgstr "更新軟體來源中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:363
+#, kde-format
+msgctxt "@info Status information, widget title"
+msgid "Downloading Packages"
+msgstr "下載套件中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:372
+#, kde-format
+msgctxt "@info Status information, widget title"
+msgid "Applying Changes"
+msgstr "套用變更中"
+
+#: libmuon/backends/ApplicationBackend/ApplicationUpdates.cpp:378
+#, kde-format
+msgctxt "@info Status information, widget title"
+msgid "Finished"
+msgstr "已完成"
+
+#: libmuon/backends/ApplicationBackend/AptSourcesBackend.cpp:140
+#, kde-format
+msgid "Adding Origins..."
+msgstr "新增來源..."
+
+#: libmuon/backends/ApplicationBackend/AptSourcesBackend.cpp:154
+#, kde-format
+msgid "Removing Origins..."
+msgstr "移除來源..."
+
+#: libmuon/backends/ApplicationBackend/AptSourcesBackend.cpp:208
+#, kde-format
+msgid "%1 (Binary)"
+msgstr "%1（執行檔）"
+
+#: libmuon/backends/ApplicationBackend/AptSourcesBackend.cpp:220
+#, kde-format
+msgid ""
+"<sourceline> - The apt repository source line to add. This is one of:\n"
+"  a complete apt line, \n"
+"  a repo url and areas (areas defaults to 'main')\n"
+"  a PPA shortcut.\n"
+"\n"
+"  Examples:\n"
+"    deb http://myserver/path/to/repo stable myrepo\n"
+"    http://myserver/path/to/repo myrepo\n"
+"    https://packages.medibuntu.org free non-free\n"
+"    http://extras.ubuntu.com/ubuntu\n"
+"    ppa:user/repository"
+msgstr ""
+"<sourceline> - 要新增的 apt 套件源。必須是以下之一：\n"
+"  一個完整的 apt 設定行，\n"
+"  一個套件庫的網址與組件（組件預設為 main）\n"
+"  或是一個 PPA 的捷徑。\n"
+"\n"
+"  例如：\n"
+"    deb http://myserver/path/to/repo stable myrepo\n"
+"    http://myserver/path/to/repo myrepo\n"
+"    https://packages.medibuntu.org free non-free\n"
+"    http://extras.ubuntu.com/ubuntu\n"
+"    ppa:user/repository"
+
+#: libmuon/backends/ApplicationBackend/AptSourcesBackend.cpp:235
+#, kde-format
+msgid "Software Management"
+msgstr "軟體管理"
+
+#: libmuon/backends/ApplicationBackend/ReviewsBackend.cpp:425
+#, kde-format
+msgid "No reviews available for Debian."
+msgstr "沒有 Debian 可用的回顧。"
+
+#: libmuon/backends/ApplicationBackend/UbuntuLoginBackend.cpp:59
+#: libmuon/backends/ApplicationBackend/UbuntuLoginBackend.cpp:67
+#, kde-format
+msgid "Log in to the Ubuntu SSO service"
+msgstr "登入 Ubuntu 單一登入服務"
+
+#: libmuon/backends/BodegaBackend/BodegaBackend.cpp:59
+#, kde-format
+msgid "Enter %1 credentials for MakePlayLive (http://makeplaylive.com)"
+msgstr "請輸入 MakePlayLive (http://makeplaylive.com) 的 %1 認證資訊"
+
+#: libmuon/backends/BodegaBackend/muon-bodegawallpapers-backend-categories.xml:5
+#, kde-format
+msgctxt "Category"
+msgid "Wallpapers"
+msgstr "桌布"
+
+#: libmuon/backends/DummyBackend/muon-dummy-backend-categories.xml:4
+#, kde-format
+msgctxt "Category"
+msgid "dummy"
+msgstr "測試用"
+
+#: libmuon/backends/KNSBackend/KNSReviews.cpp:141
+#, kde-format
+msgid "Log in information for %1"
+msgstr "%1 的登入資訊"
+
+#: libmuon/backends/KNSBackend/muon-knscomics-backend-categories.xml:4
+#, kde-format
+msgctxt "Category"
+msgid "Comics"
+msgstr "漫畫"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:34
+#, kde-format
+msgid "Out of memory"
+msgstr "記憶體不足"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:36
+#, kde-format
+msgid "No network connection available"
+msgstr "沒有可用的網路連結"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:38
+#, kde-format
+msgid "Operation not supported"
+msgstr "操作未支援"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:40
+#, kde-format
+msgid "Internal error"
+msgstr "內部錯誤"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:42
+#, kde-format
+msgid "GPG failure"
+msgstr "GPG 失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:44
+#, kde-format
+msgid "PackageID invalid"
+msgstr "PackageID 不合法"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:46
+#, kde-format
+msgid "Package not installed"
+msgstr "套件未安裝"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:48
+#, kde-format
+msgid "Package not found"
+msgstr "找不到套件"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:50
+#, kde-format
+msgid "Package is already installed"
+msgstr "套件已安裝"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:52
+#, kde-format
+msgid "Package download failed"
+msgstr "套件下載失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:54
+#, kde-format
+msgid "Package group not found"
+msgstr "找不到套件群組"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:56
+#, kde-format
+msgid "Package group list invalid"
+msgstr "套件群組清單不合法"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:58
+#, kde-format
+msgid "Dependency resolution failed"
+msgstr "相依性解決失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:60
+#, kde-format
+msgid "Filter invalid"
+msgstr "過濾器不合法"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:62
+#, kde-format
+msgid "Failed while creating a thread"
+msgstr "建立執行緒失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:64
+#, kde-format
+msgid "Transaction failure"
+msgstr "工作階段失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:66
+#, kde-format
+msgid "Transaction canceled"
+msgstr "工作階段取消"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:68
+#, kde-format
+msgid "No Cache available"
+msgstr "沒有快取可使用"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:70
+#, kde-format
+msgid "Cannot find repository"
+msgstr "找不到套件庫"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:72
+#, kde-format
+msgid "Cannot remove system package"
+msgstr "無法移除系統套件"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:74
+#, kde-format
+msgid "The PackageKit daemon has crashed"
+msgstr "PackageKit 伺服程式已崩潰"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:76
+#, kde-format
+msgid "Initialization failure"
+msgstr "初始化失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:78
+#, kde-format
+msgid "Failed to finalize transaction"
+msgstr "工作階段收尾失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:80
+#, kde-format
+msgid "Config parsing failed"
+msgstr "剖析設定失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:82
+#, kde-format
+msgid "Cannot cancel transaction"
+msgstr "無法取消工作階段"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:84
+#, kde-format
+msgid "Cannot obtain lock"
+msgstr "無法取得鎖定"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:86
+#, kde-format
+msgid "No packages to update"
+msgstr "沒有套件需要更新"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:88
+#, kde-format
+msgid "Cannot write repo config"
+msgstr "無法寫入套件庫設定"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:90
+#, kde-format
+msgid "Local install failed"
+msgstr "本地安裝失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:92
+#, kde-format
+msgid "Bad GPG signature found"
+msgstr "找到錯誤的 GPG 簽章"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:94
+#, kde-format
+msgid "No GPG signature found"
+msgstr "找不到 GPG 簽章"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:96
+#, kde-format
+msgid "Cannot install source package"
+msgstr "無法安裝來源套件"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:98
+#, kde-format
+msgid "Repo configuration error"
+msgstr "套件庫設定錯誤"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:100
+#, kde-format
+msgid "No license agreement"
+msgstr "沒有授權宣告"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:102
+#, kde-format
+msgid "File conflicts found"
+msgstr "發現檔案衝突"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:104
+#, kde-format
+msgid "Package conflict found"
+msgstr "發現套件衝突"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:106
+#, kde-format
+msgid "Repo not available"
+msgstr "無法使用套件庫"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:108
+#, kde-format
+msgid "Invalid package file"
+msgstr "無效的套件檔案"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:110
+#, kde-format
+msgid "Package install blocked"
+msgstr "套件安裝被封鎖"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:112
+#, kde-format
+msgid "Corrupt package found"
+msgstr "發現損毀的套件"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:114
+#, kde-format
+msgid "All packages already installed"
+msgstr "已安裝所有套件"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:116
+#, kde-format
+msgid "File not found"
+msgstr "找不到檔案"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:118
+#, kde-format
+msgid "No more mirrors available"
+msgstr "沒有其他可用的鏡像站"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:120
+#, kde-format
+msgid "No distro upgrade data"
+msgstr "沒有發行版升級資料"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:122
+#, kde-format
+msgid "Incompatible architecture"
+msgstr "不相容的硬體架構"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:124
+#, kde-format
+msgid "No space on device left"
+msgstr "裝置上已無空間"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:126
+#, kde-format
+msgid "A media change is required"
+msgstr "需要更換媒體"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:128
+#, kde-format
+msgid "You have no authorization to execute this operation"
+msgstr "您沒有權限執行此操作"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:130
+#, kde-format
+msgid "Update not found"
+msgstr "找不到更新"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:132
+#, kde-format
+msgid "Cannot install from unsigned repo"
+msgstr "無法從未簽署的套件庫進行安裝"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:134
+#, kde-format
+msgid "Cannot update from unsigned repo"
+msgstr "無法從未簽署的套件庫進行更新"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:136
+#, kde-format
+msgid "Cannot get file list"
+msgstr "無法取得檔案清單"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:138
+#, kde-format
+msgid "Cannot get requires"
+msgstr "無法取得需求"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:140
+#, kde-format
+msgid "Cannot disable repository"
+msgstr "無法關閉主目錄"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:142
+#, kde-format
+msgid "Restricted download detected"
+msgstr "偵測到限制下載"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:144
+#, kde-format
+msgid "Package failed to configure"
+msgstr "套件設定失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:146
+#, kde-format
+msgid "Package failed to build"
+msgstr "套件建立失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:148
+#, kde-format
+msgid "Package failed to install"
+msgstr "套件安裝失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:150
+#, kde-format
+msgid "Package failed to remove"
+msgstr "套件移除失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:152
+#, kde-format
+msgid "Update failed due to running process"
+msgstr "由於程序正在執行，因而更新失敗"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:154
+#, kde-format
+msgid "The package database changed"
+msgstr "套件資料庫已變更"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:156
+#, kde-format
+msgid "The provided type is not supported"
+msgstr "不支援所提供的型態"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:158
+#, kde-format
+msgid "Install root is invalid"
+msgstr "安裝目錄不合法"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:160
+#, kde-format
+msgid "Cannot fetch sources"
+msgstr "無法取得來源"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:162
+#, kde-format
+msgid "Canceled priority"
+msgstr "已取消優先權"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:164
+#, kde-format
+msgid "Unfinished transaction"
+msgstr "未完成的處理事項"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:166
+#, kde-format
+msgid "Lock required"
+msgstr "需要鎖定"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:171
+#, kde-format
+msgid "Unknown error %1."
+msgstr "未知的錯誤 %1."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:180
+#, kde-format
+msgid "'%1' was changed and suggests to be restarted."
+msgstr "'%1' 已變更，並建議重新啟動。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:182
+#, kde-format
+msgid "A change by '%1' suggests your session to be restarted."
+msgstr "'%1' 的變更建議您重新啟動。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:184
+#, kde-format
+msgid ""
+"'%1' was updated for security reasons, a restart of the session is "
+"recommended."
+msgstr "'%1' 已因為安全性理由而更新。建議重新啟動。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:186
+#, kde-format
+msgid ""
+"'%1' was updated for security reasons, a restart of the system is "
+"recommended."
+msgstr "'%1' 已因為安全性理由而更新。建議重新開機。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:191
+#, kde-format
+msgid "A change by '%1' suggests your system to be rebooted."
+msgstr "'%1' 的變更建議您重新開機。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:199
+#, kde-format
+msgid "The application will have to be restarted."
+msgstr "此應用程式必須重啟。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:201
+#, kde-format
+msgid "The session will have to be restarted"
+msgstr "工作階段必須重啟。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:203
+#, kde-format
+msgid "The system will have to be rebooted."
+msgstr "系統必須重新啟動。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:205
+#, kde-format
+msgid "For security, the session will have to be restarted."
+msgstr "為了安全起見，工作階段必須重啟。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:207
+#, kde-format
+msgid "For security, the system will have to be restarted."
+msgstr "為了安全起見，系統必須重新啟動。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:219
+#, kde-format
+msgid "Waiting..."
+msgstr "等待中,,,"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:221
+#, kde-format
+msgid "Refreshing Cache..."
+msgstr "刷新快取中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:223
+#, kde-format
+msgid "Setup..."
+msgstr "設定..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:225
+#, kde-format
+msgid "Processing..."
+msgstr "處理中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:227
+#, kde-format
+msgid "Remove..."
+msgstr "移除..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:229
+#, kde-format
+msgid "Downloading..."
+msgstr "下載中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:231
+#: libmuon/resources/StandardBackendUpdater.cpp:172
+#, kde-format
+msgid "Installing..."
+msgstr "安裝中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:233
+#, kde-format
+msgid "Updating..."
+msgstr "更新中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:235
+#, kde-format
+msgid "Cleaning up..."
+msgstr "清除中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:238
+#, kde-format
+msgid "Resolving dependencies..."
+msgstr "解決相依性問題中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:240
+#, kde-format
+msgid "Checking signatures..."
+msgstr "檢查簽章中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:242
+#, kde-format
+msgid "Test committing..."
+msgstr "測試提交中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:244
+#, kde-format
+msgid "Committing..."
+msgstr "提交中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:247
+#, kde-format
+msgid "Finished"
+msgstr "已完成"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:249
+#, kde-format
+msgid "Canceled"
+msgstr "已取消"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:251
+#, kde-format
+msgid "Waiting for lock..."
+msgstr "等待鎖定中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:253
+#, kde-format
+msgid "Waiting for authorization..."
+msgstr "等待認證中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:258
+#, kde-format
+msgid "Copying files..."
+msgstr "複製檔案中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:261
+#, kde-format
+msgid "Unknown Status"
+msgstr "未知的狀態"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:269
+#, kde-format
+msgid "We are waiting for something."
+msgstr "正在等待中。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:271
+#, kde-format
+msgid "Setting up transaction..."
+msgstr "設定工作階段中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:273
+#, kde-format
+msgid "The transaction is currently working..."
+msgstr "工作階段目前進行中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:275
+#, kde-format
+msgid "The transaction is currently removing packages..."
+msgstr "目前正在移除套件中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:277
+#, kde-format
+msgid "The transaction is currently downloading packages..."
+msgstr "目前正在下載套件中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:279
+#, kde-format
+msgid "The transactions is currently installing packages..."
+msgstr "目前正在安裝套件中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:281
+#, kde-format
+msgid "The transaction is currently updating packages..."
+msgstr "目前正在更新套件中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:283
+#, kde-format
+msgid "The transaction is currently cleaning up..."
+msgstr "目前正在清除中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:286
+#, kde-format
+msgid ""
+"The transaction is currently resolving the dependencies of the packages it "
+"will install..."
+msgstr "目前正在解決套件相依性問題中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:288
+#, kde-format
+msgid "The transaction is currently checking the signatures of the packages..."
+msgstr "目前正在檢查簽章中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:290
+#, kde-format
+msgid ""
+"The transaction is currently testing the commit of this set of packages..."
+msgstr "目前正在測試套件集的提交中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:292
+#, kde-format
+msgid "The transaction is currently committing its set of packages..."
+msgstr "目前正在提交套件集中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:295
+#, kde-format
+msgid "The transaction has finished!"
+msgstr "此工作階段已完成。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:297
+#, kde-format
+msgid "The transaction was canceled"
+msgstr "工作階段已取消"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:299
+#, kde-format
+msgid "The transaction is currently waiting for the lock..."
+msgstr "目前正在等待鎖定中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:301
+#, kde-format
+msgid "Waiting for the user to authorize the transaction..."
+msgstr "目前正在等待使用者認證中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:306
+#, kde-format
+msgid "The transaction is currently copying files..."
+msgstr "目前正在複製檔案中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:308
+#, kde-format
+msgid "Currently refreshing the repository cache..."
+msgstr "目前正在刷新套件庫快取中..."
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:313
+#, kde-format
+msgid "Unknown status %1."
+msgstr "未知的狀態 %1。"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:324
+#, kde-format
+msgctxt "update state"
+msgid "Stable"
+msgstr "穩定"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:326
+#, kde-format
+msgctxt "update state"
+msgid "Unstable"
+msgstr "不穩定版"
+
+#: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:328
+#, kde-format
+msgctxt "update state"
+msgid "Testing"
+msgstr "測試中"
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:330
+#, kde-format
+msgctxt "package-name (version)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:332
+#, kde-format
+msgctxt "comma separating package names"
+msgid ", "
+msgstr ", "
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:348
+#, kde-format
+msgid "Reason:"
+msgstr "理由："
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:349
+#, kde-format
+msgid "Obsoletes:"
+msgstr "廢棄："
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:350
+#, kde-format
+msgid "Updates:"
+msgstr "更新："
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:351
+#, kde-format
+msgid "Change Log:"
+msgstr "變更紀錄："
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:352
+#, kde-format
+msgid "Update State:"
+msgstr "更新狀態："
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:353
+#, kde-format
+msgid "Restart:"
+msgstr "重新啟動："
+
+#: libmuon/backends/PackageKitBackend/PackageKitResource.cpp:356
+#, kde-format
+msgid "Vendor:"
+msgstr "廠商："
+
+#: libmuon/backends/PackageKitBackend/PackageKitUpdater.cpp:264
+#, kde-format
+msgid "PackageKit error found"
+msgstr "PackageKit 發生錯誤"
+
+#: libmuon/backends/PackageKitBackend/PackageKitUpdater.cpp:271
+#: libmuon/backends/PackageKitBackend/PKTransaction.cpp:149
+#, kde-format
+msgid "PackageKit media change"
+msgstr "PackageKit 媒體變更"
+
+#: libmuon/backends/PackageKitBackend/PackageKitUpdater.cpp:271
+#: libmuon/backends/PackageKitBackend/PKTransaction.cpp:149
+#, kde-format
+msgid ""
+"Media Change of type '%1' is requested.\n"
+"%2"
+msgstr ""
+"要求變更型態 %1 的媒體：\n"
+"%2"
+
+#: libmuon/backends/PackageKitBackend/PackageKitUpdater.cpp:276
+#: libmuon/backends/PackageKitBackend/PKTransaction.cpp:154
+#, kde-format
+msgid "PackageKit restart required"
+msgstr "需要重新啟動 PackageKit"
+
+#: libmuon/backends/PackageKitBackend/PackageKitUpdater.cpp:282
+#: libmuon/backends/PackageKitBackend/PKTransaction.cpp:128
+#, kde-format
+msgid ""
+"The package %1 and its vendor %2 require that you accept their license:\n"
+" %3"
+msgstr ""
+"套件 %1 的提供廠商 %2 要求您接受他們的授權條款：\n"
+"%3"
+
+#: libmuon/backends/PackageKitBackend/PackageKitUpdater.cpp:282
+#, kde-format
+msgid "%1 requires user to accept its license"
+msgstr "%1 要求使用者接受授權條款"
+
+#: libmuon/backends/PackageKitBackend/PKTransaction.cpp:128
+#, kde-format
+msgid "Accept EULA"
+msgstr "接受 EULA"
+
+#: libmuon/backends/PackageKitBackend/PKTransaction.cpp:143
+#, kde-format
+msgid "PackageKit Error"
+msgstr "PackageKit 錯誤"
+
+#: libmuon/Category/Category.cpp:42
+#, kde-format
+msgctxt "@label The label used for viewing all members of this category"
+msgid "All"
+msgstr "全部"
+
+#: libmuon/MuonBackendsFactory.cpp:117
+#, kde-format
+msgid "List all the available backends."
+msgstr "列出所有可用的後端介面。"
+
+#: libmuon/MuonBackendsFactory.cpp:118
+#, kde-format
+msgid "List all the backends we'll want to have loaded, separated by coma ','."
+msgstr "列出所有要載入的後端介面，以逗號分隔。"
+
+#: libmuon/MuonBackendsFactory.cpp:125
+#, kde-format
+msgid "Available backends:\n"
+msgstr "可用的後端介面：\n"
+
+#: libmuon/resources/AbstractResource.cpp:86
+#, kde-format
+msgid "Broken"
+msgstr "已破損"
+
+#: libmuon/resources/AbstractResource.cpp:87
+#, kde-format
+msgid "Available"
+msgstr "可使用"
+
+#: libmuon/resources/AbstractResource.cpp:88
+#, kde-format
+msgid "Installed"
+msgstr "已安裝"
+
+#: libmuon/resources/AbstractResource.cpp:89
+#, kde-format
+msgid "Upgradeable"
+msgstr "可更新"
+
+#: libmuon/resources/ResourcesUpdatesModel.cpp:159
+#, kde-format
+msgctxt "@item:intext Remaining time"
+msgid "%1 remaining"
+msgstr " 還剩 %1"
+
+#: libmuon/resources/StandardBackendUpdater.cpp:73
+#, kde-format
+msgid "%1 has been updated"
+msgstr "%1 已更新"
+
+#: libmuon/resources/StandardBackendUpdater.cpp:170
+#, kde-format
+msgid "Setting up for install..."
+msgstr "正在做安裝設定..."
+
+#: libmuon/Transaction/TransactionModel.cpp:81
+#, kde-format
+msgctxt "@info:status"
+msgid "Starting"
+msgstr "啟動中"
+
+#: libmuon/Transaction/TransactionModel.cpp:83
+#, kde-format
+msgctxt "@info:status"
+msgid "Waiting"
+msgstr "等待中"
+
+#: libmuon/Transaction/TransactionModel.cpp:85
+#, kde-format
+msgctxt "@info:status"
+msgid "Downloading"
+msgstr "下載中"
+
+#: libmuon/Transaction/TransactionModel.cpp:89
+#, kde-format
+msgctxt "@info:status"
+msgid "Installing"
+msgstr "安裝中"
+
+#: libmuon/Transaction/TransactionModel.cpp:91
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing"
+msgstr "移除中"
+
+#: libmuon/Transaction/TransactionModel.cpp:93
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing Addons"
+msgstr "變更外加功能"
+
+#: libmuon/Transaction/TransactionModel.cpp:97
+#, kde-format
+msgctxt "@info:status"
+msgid "Done"
+msgstr "完成"
+
+#: libmuonapt/ChangesDialog.cpp:39
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirm Additional Changes"
+msgstr "確認額外變更"
+
+#: libmuonapt/ChangesDialog.cpp:44
+#, kde-format
+msgctxt "@info"
+msgid "<h2>Mark additional changes?</h2>"
+msgstr "<h2>要標記額外的變更嗎？</h2>"
+
+#: libmuonapt/ChangesDialog.cpp:48
+#, kde-format
+msgid "This action requires a change to another package:"
+msgid_plural "This action requires changes to other packages:"
+msgstr[0] "此動作需要變更其它套件："
+
+#: libmuonapt/HistoryView/HistoryView.cpp:48
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<title>History</title>"
+msgstr "<title>歷史紀錄</title>"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:54
+#, kde-format
+msgctxt "@label Line edit click message"
+msgid "Search"
+msgstr "搜尋"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:66
+#, kde-format
+msgctxt "@item:inlistbox Filters all changes in the history view"
+msgid "All changes"
+msgstr "所有變更"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:70
+#, kde-format
+msgctxt "@item:inlistbox Filters installations in the history view"
+msgid "Installations"
+msgstr "安裝"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:74
+#, kde-format
+msgctxt "@item:inlistbox Filters updates in the history view"
+msgid "Updates"
+msgstr "更新"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:78
+#, kde-format
+msgctxt "@item:inlistbox Filters removals in the history view"
+msgid "Removals"
+msgstr "移除"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:89
+#, kde-format
+msgctxt "@title:column"
+msgid "Date"
+msgstr "日期"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:97
+#, kde-format
+msgctxt "@info:status describes a past-tense action"
+msgid "Installed"
+msgstr "已安裝"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:98
+#, kde-format
+msgctxt "@info:status describes a past-tense action"
+msgid "Upgraded"
+msgstr "已更新"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:99
+#, kde-format
+msgctxt "@status describes a past-tense action"
+msgid "Downgraded"
+msgstr "已降級"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:100
+#, kde-format
+msgctxt "@status describes a past-tense action"
+msgid "Removed"
+msgstr "已移除"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:101
+#, kde-format
+msgctxt "@status describes a past-tense action"
+msgid "Purged"
+msgstr "已徹底清除"
+
+#: libmuonapt/HistoryView/HistoryView.cpp:136
+#: libmuonapt/HistoryView/HistoryView.cpp:151
+#: libmuonapt/HistoryView/HistoryView.cpp:166
+#: libmuonapt/HistoryView/HistoryView.cpp:181
+#: libmuonapt/HistoryView/HistoryView.cpp:196
+#, kde-format
+msgctxt "@item example: muon installed at 16:00"
+msgid "%1 %2 at %3"
+msgstr "%1 於 %3 %2"
+
+#: libmuonapt/MuonStrings.cpp:49
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"admin\""
+msgid "System Administration"
+msgstr "系統管理"
+
+#: libmuonapt/MuonStrings.cpp:51
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"base\""
+msgid "Base System"
+msgstr "基礎系統"
+
+#: libmuonapt/MuonStrings.cpp:53
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"cli-mono"
+"\""
+msgid "Mono/CLI Infrastructure"
+msgstr "Mono/CLI 基礎結構"
+
+#: libmuonapt/MuonStrings.cpp:55
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"comm\""
+msgid "Communication"
+msgstr "通訊"
+
+#: libmuonapt/MuonStrings.cpp:57
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"database"
+"\""
+msgid "Databases"
+msgstr "資料庫"
+
+#: libmuonapt/MuonStrings.cpp:59
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"devel\""
+msgid "Development"
+msgstr "程式開發"
+
+#: libmuonapt/MuonStrings.cpp:61
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"doc\""
+msgid "Documentation"
+msgstr "文件"
+
+#: libmuonapt/MuonStrings.cpp:63
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"debug\""
+msgid "Debug"
+msgstr "除錯"
+
+#: libmuonapt/MuonStrings.cpp:65
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"editors"
+"\""
+msgid "Editors"
+msgstr "編輯器"
+
+#: libmuonapt/MuonStrings.cpp:67
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section "
+"\"electronics\""
+msgid "Electronics"
+msgstr "電子"
+
+#: libmuonapt/MuonStrings.cpp:69
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"embedded"
+"\""
+msgid "Embedded Devices"
+msgstr "嵌入式裝置"
+
+#: libmuonapt/MuonStrings.cpp:71
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"fonts\""
+msgid "Fonts"
+msgstr "字型"
+
+#: libmuonapt/MuonStrings.cpp:73
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"games\""
+msgid "Games and Amusement"
+msgstr "遊戲與娛樂"
+
+#: libmuonapt/MuonStrings.cpp:75
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"gnome\""
+msgid "GNOME Desktop Environment"
+msgstr "GNOME 桌面環境"
+
+#: libmuonapt/MuonStrings.cpp:77
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"graphics"
+"\""
+msgid "Graphics"
+msgstr "圖形"
+
+#: libmuonapt/MuonStrings.cpp:79
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"gnu-r\""
+msgid "GNU R Statistical System"
+msgstr "GNU R 統計系統"
+
+#: libmuonapt/MuonStrings.cpp:81
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"gnustep"
+"\""
+msgid "Gnustep Desktop Environment"
+msgstr "Gnustep 桌面環境"
+
+#: libmuonapt/MuonStrings.cpp:83
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"hamradio"
+"\""
+msgid "Amateur Radio"
+msgstr "業餘無線電"
+
+#: libmuonapt/MuonStrings.cpp:85
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"haskell"
+"\""
+msgid "Haskell Programming Language"
+msgstr "Haskell 程式語言"
+
+#: libmuonapt/MuonStrings.cpp:87
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"httpd\""
+msgid "Web Servers"
+msgstr "網頁伺服器"
+
+#: libmuonapt/MuonStrings.cpp:89
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section "
+"\"interpreters\""
+msgid "Interpreted Computer Languages"
+msgstr "直譯式電腦語言"
+
+#: libmuonapt/MuonStrings.cpp:91
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"java\""
+msgid "Java Programming Language"
+msgstr "Java 程式語言"
+
+#: libmuonapt/MuonStrings.cpp:93
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"kde\""
+msgid "KDE Software Compilation"
+msgstr "KDE 軟體集"
+
+#: libmuonapt/MuonStrings.cpp:95
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"kernel\""
+msgid "Kernel and Modules"
+msgstr "核心與模組"
+
+#: libmuonapt/MuonStrings.cpp:97
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"libdevel"
+"\""
+msgid "Libraries - Development"
+msgstr "函式庫 - 開發用"
+
+#: libmuonapt/MuonStrings.cpp:99
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"libs\""
+msgid "Libraries"
+msgstr "函式庫"
+
+#: libmuonapt/MuonStrings.cpp:101
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"lisp\""
+msgid "Lisp Programming Language"
+msgstr "Lisp 程式語言"
+
+#: libmuonapt/MuonStrings.cpp:103
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section "
+"\"localization\""
+msgid "Localization"
+msgstr "本地化"
+
+#: libmuonapt/MuonStrings.cpp:105
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"mail\""
+msgid "Email"
+msgstr "電子郵件"
+
+#: libmuonapt/MuonStrings.cpp:107
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"math\""
+msgid "Mathematics"
+msgstr "數學"
+
+#: libmuonapt/MuonStrings.cpp:109
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"misc\""
+msgid "Miscellaneous - Text-based"
+msgstr "雜項 - 文字介面"
+
+#: libmuonapt/MuonStrings.cpp:111
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"net\""
+msgid "Networking"
+msgstr "網路"
+
+#: libmuonapt/MuonStrings.cpp:113
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"news\""
+msgid "Newsgroups"
+msgstr "新聞群組（Newsgroup）"
+
+#: libmuonapt/MuonStrings.cpp:115
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"ocaml\""
+msgid "OCaml Programming Language"
+msgstr "OCaml 程式語言"
+
+#: libmuonapt/MuonStrings.cpp:117
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"oldlibs"
+"\""
+msgid "Libraries - Old"
+msgstr "函式庫 - 舊式"
+
+#: libmuonapt/MuonStrings.cpp:119
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section "
+"\"otherosfs\""
+msgid "Cross Platform"
+msgstr "交叉平台"
+
+#: libmuonapt/MuonStrings.cpp:121
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"perl\""
+msgid "Perl Programming Language"
+msgstr "Perl 程式語言"
+
+#: libmuonapt/MuonStrings.cpp:123
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"php\""
+msgid "PHP Programming Language"
+msgstr "PHP 程式語言"
+
+#: libmuonapt/MuonStrings.cpp:125
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"python\""
+msgid "Python Programming Language"
+msgstr "Python 程式語言"
+
+#: libmuonapt/MuonStrings.cpp:127
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"ruby\""
+msgid "Ruby Programming Language"
+msgstr "Ruby 程式語言"
+
+#: libmuonapt/MuonStrings.cpp:129
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"science"
+"\""
+msgid "Science"
+msgstr "科學"
+
+#: libmuonapt/MuonStrings.cpp:131
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"shells\""
+msgid "Shells"
+msgstr "Shells"
+
+#: libmuonapt/MuonStrings.cpp:133
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"sound\""
+msgid "Multimedia"
+msgstr "多媒體"
+
+#: libmuonapt/MuonStrings.cpp:135
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"tex\""
+msgid "TeX Authoring"
+msgstr "TeX 創作"
+
+#: libmuonapt/MuonStrings.cpp:137
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"text\""
+msgid "Word Processing"
+msgstr "文字處理"
+
+#: libmuonapt/MuonStrings.cpp:139
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"utils\""
+msgid "Utilities"
+msgstr "實用工具"
+
+#: libmuonapt/MuonStrings.cpp:141
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"vcs\""
+msgid "Version Control Systems"
+msgstr "版本控制系統"
+
+#: libmuonapt/MuonStrings.cpp:143
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"video\""
+msgid "Video Software"
+msgstr "影像軟體"
+
+#: libmuonapt/MuonStrings.cpp:145
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"web\""
+msgid "Internet"
+msgstr "網際網路"
+
+#: libmuonapt/MuonStrings.cpp:147
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"x11\""
+msgid "Miscellaneous - Graphical"
+msgstr "雜項 - 圖形"
+
+#: libmuonapt/MuonStrings.cpp:149
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"xfce\""
+msgid "Xfce Desktop Environment"
+msgstr "Xfce 桌面環境"
+
+#: libmuonapt/MuonStrings.cpp:151
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"zope\""
+msgid "Zope/Plone Environment"
+msgstr "Zope/Plone 環境"
+
+#: libmuonapt/MuonStrings.cpp:153
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"unknown"
+"\""
+msgid "Unknown"
+msgstr "未知"
+
+#: libmuonapt/MuonStrings.cpp:155
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"alien\""
+msgid "Converted from RPM by Alien"
+msgstr "由 Alien 從 RPM 轉換而來"
+
+#: libmuonapt/MuonStrings.cpp:157
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section "
+"\"translations\""
+msgid "Internationalization and Localization"
+msgstr "國際化與本地化"
+
+#: libmuonapt/MuonStrings.cpp:159
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section "
+"\"metapackages\""
+msgid "Meta Packages"
+msgstr "中繼套件"
+
+#: libmuonapt/MuonStrings.cpp:161
+#, kde-format
+msgctxt ""
+"@item:inlistbox Debian package section \"non-US\", for packages that cannot "
+"be shipped in the US"
+msgid "Restricted On Export"
+msgstr "限制匯出"
+
+#: libmuonapt/MuonStrings.cpp:163
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"non-free"
+"\""
+msgid "Non-free"
+msgstr "非自由軟體"
+
+#: libmuonapt/MuonStrings.cpp:165
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section \"contrib"
+"\""
+msgid "Contrib"
+msgstr "Contrib"
+
+#: libmuonapt/MuonStrings.cpp:167
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section "
+"\"education\""
+msgid "Education"
+msgstr "教育"
+
+#: libmuonapt/MuonStrings.cpp:169
+#, kde-format
+msgctxt ""
+"@item:inlistbox Human-readable name for the Debian package section "
+"\"introspection\""
+msgid "GObject Introspection Data"
+msgstr "GObject Introspection 資料"
+
+#: libmuonapt/MuonStrings.cpp:195
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "No Change"
+msgstr "沒有改變"
+
+#: libmuonapt/MuonStrings.cpp:196 libmuonapt/MuonStrings.cpp:197
+#, kde-format
+msgctxt "@info:status Requested action"
+msgid "Install"
+msgstr "安裝"
+
+#: libmuonapt/MuonStrings.cpp:198
+#, kde-format
+msgctxt "@info:status Requested action"
+msgid "Reinstall"
+msgstr "重新安裝"
+
+#: libmuonapt/MuonStrings.cpp:199
+#, kde-format
+msgctxt "@info:status Requested action"
+msgid "Upgrade"
+msgstr "更新"
+
+#: libmuonapt/MuonStrings.cpp:200
+#, kde-format
+msgctxt "@info:status Requested action"
+msgid "Downgrade"
+msgstr "降級"
+
+#: libmuonapt/MuonStrings.cpp:201
+#, kde-format
+msgctxt "@info:status Requested action"
+msgid "Remove"
+msgstr "移除"
+
+#: libmuonapt/MuonStrings.cpp:202
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Held"
+msgstr "保留"
+
+#: libmuonapt/MuonStrings.cpp:203
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Installed"
+msgstr "已安裝"
+
+#: libmuonapt/MuonStrings.cpp:204
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Upgradeable"
+msgstr "可更新"
+
+#: libmuonapt/MuonStrings.cpp:205
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Broken"
+msgstr "已破損"
+
+#: libmuonapt/MuonStrings.cpp:206
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Install Broken"
+msgstr "安裝錯誤"
+
+#: libmuonapt/MuonStrings.cpp:207
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Orphaned"
+msgstr "孤兒套件"
+
+#: libmuonapt/MuonStrings.cpp:208
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Locked"
+msgstr "已鎖定"
+
+#: libmuonapt/MuonStrings.cpp:209
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "New in repository"
+msgstr "套件庫中的新套件"
+
+#: libmuonapt/MuonStrings.cpp:210
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Residual Configuration"
+msgstr "Residual 設定"
+
+#: libmuonapt/MuonStrings.cpp:211
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Not Downloadable"
+msgstr "無法下載"
+
+#: libmuonapt/MuonStrings.cpp:212
+#, kde-format
+msgctxt "@info:status Requested action"
+msgid "Purge"
+msgstr "徹底清除"
+
+#: libmuonapt/MuonStrings.cpp:213
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Important for base install"
+msgstr "重要的基本安裝"
+
+#: libmuonapt/MuonStrings.cpp:214
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Version overridden"
+msgstr "版號覆寫"
+
+#: libmuonapt/MuonStrings.cpp:215
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Required by other packages"
+msgstr "被其他的套件所需要"
+
+#: libmuonapt/MuonStrings.cpp:216
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Installed (auto-removable)"
+msgstr "已安裝（可自動移除）"
+
+#: libmuonapt/MuonStrings.cpp:217 libmuonapt/MuonStrings.cpp:218
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Policy Broken"
+msgstr "政策錯誤"
+
+#: libmuonapt/MuonStrings.cpp:219
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Not Installed"
+msgstr "未安裝"
+
+#: libmuonapt/MuonStrings.cpp:221
+#, kde-format
+msgctxt "@info:status Package locked at a certain version"
+msgid "Locked"
+msgstr "已鎖定"
+
+#: libmuonapt/MuonStrings.cpp:222
+#, kde-format
+msgctxt "@info:status Package state"
+msgid "Manually held back"
+msgstr "手動保留"
+
+#: libmuonapt/MuonStrings.cpp:243
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Common"
+msgstr "通用"
+
+#: libmuonapt/MuonStrings.cpp:244
+#, kde-format
+msgctxt "@item:inlistbox CPU architecture"
+msgid "32-bit"
+msgstr "32-bit"
+
+#: libmuonapt/MuonStrings.cpp:245
+#, kde-format
+msgctxt "@item:inlistbox CPU architecture"
+msgid "64-bit"
+msgstr "64-bit"
+
+#: libmuonapt/MuonStrings.cpp:246
+#, kde-format
+msgctxt "@item:inlistbox PU architecture"
+msgid "Power PC"
+msgstr "Power PC"
+
+#: libmuonapt/MuonStrings.cpp:265
+#, kde-format
+msgctxt "@title:window"
+msgid "Initialization Error"
+msgstr "初始化錯誤"
+
+#: libmuonapt/MuonStrings.cpp:267
+#, kde-format
+msgctxt "@title:window"
+msgid "Unable to Obtain Package System Lock"
+msgstr "無法鎖定套件系統"
+
+#: libmuonapt/MuonStrings.cpp:269
+#, kde-format
+msgctxt "@title:window"
+msgid "Low Disk Space"
+msgstr "磁碟空間過低"
+
+#: libmuonapt/MuonStrings.cpp:272
+#, kde-format
+msgctxt "@title:window"
+msgid "Failed to Apply Changes"
+msgstr "套用變更時失敗"
+
+#: libmuonapt/MuonStrings.cpp:274
+#, kde-format
+msgctxt "@title:window"
+msgid "Authentication error"
+msgstr "認證錯誤"
+
+#: libmuonapt/MuonStrings.cpp:276
+#, kde-format
+msgctxt "@title:window"
+msgid "Unexpected Error"
+msgstr "未預期的錯誤"
+
+#: libmuonapt/MuonStrings.cpp:278
+#, kde-format
+msgctxt "@title:window"
+msgid "Untrusted Packages"
+msgstr "未受信任的套件"
+
+#: libmuonapt/MuonStrings.cpp:281
+#, kde-format
+msgctxt "@title:window"
+msgid "Unknown Error"
+msgstr "未知的錯誤"
+
+#: libmuonapt/MuonStrings.cpp:291
+#, kde-format
+msgctxt "@label"
+msgid ""
+"The package system could not be initialized, your configuration may be "
+"broken."
+msgstr "套件系統無法被初始化，您的設定可能有問題。"
+
+#: libmuonapt/MuonStrings.cpp:296
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Another application seems to be using the package system at this time. You "
+"must close all other package managers before you will be able to install or "
+"remove any packages."
+msgstr ""
+"另一個應用程式似乎正在使用套件系統。您必須關閉另一個套件管理程式，才能繼續安"
+"裝或移除套件。"
+
+#: libmuonapt/MuonStrings.cpp:303
+#, kde-format
+msgctxt "@label"
+msgid ""
+"You do not have enough disk space in the directory at %1 to continue with "
+"this operation."
+msgstr "您在 %1 沒有足夠的磁碟空間來繼續此操作。"
+
+#: libmuonapt/MuonStrings.cpp:307
+#, kde-format
+msgctxt "@label"
+msgid "Could not download packages"
+msgstr "無法下載套件"
+
+#: libmuonapt/MuonStrings.cpp:310
+#, kde-format
+msgctxt "@label"
+msgid "An error occurred while applying changes:"
+msgstr "套用變更時發生錯誤："
+
+#: libmuonapt/MuonStrings.cpp:314
+#, kde-format
+msgctxt "@label"
+msgid ""
+"This operation cannot continue since proper authorization was not provided"
+msgstr "此操作無法繼續，因為無法提供適當的認證"
+
+#: libmuonapt/MuonStrings.cpp:318
+#, kde-format
+msgctxt "@label"
+msgid ""
+"It appears that the QApt worker has either crashed or disappeared. Please "
+"report a bug to the QApt maintainers"
+msgstr "似乎 QApt worker 已崩潰，或是已消失。請回報此問題到 QApt 維護者。"
+
+#: libmuonapt/MuonStrings.cpp:323
+#, kde-format
+msgctxt "@label"
+msgid ""
+"The following package has not been verified by its author. Downloading "
+"untrusted packages has been disallowed by your current configuration."
+msgid_plural ""
+"The following packages have not been verified by their authors. Downloading "
+"untrusted packages has been disallowed by your current configuration."
+msgstr[0] "以下的套件尚未經過作者檢查。您目前的設定不允許下載不受信任的套件。"
+
+#: libmuonapt/QAptActions.cpp:118
+#, kde-format
+msgctxt "@action Reverts all potential changes to the cache"
+msgid "Unmark All"
+msgstr "全部取消標記"
+
+#: libmuonapt/QAptActions.cpp:125
+#, kde-format
+msgctxt "@action Opens the software sources configuration dialog"
+msgid "Configure Software Sources"
+msgstr "設定軟體來源"
+
+#: libmuonapt/QAptActions.cpp:131
+#, kde-format
+msgctxt "@action"
+msgid "Read Markings..."
+msgstr "讀取標記..."
+
+#: libmuonapt/QAptActions.cpp:137
+#, kde-format
+msgctxt "@action"
+msgid "Save Markings As..."
+msgstr "儲存標記為..."
+
+#: libmuonapt/QAptActions.cpp:144
+#, kde-format
+msgctxt "@action"
+msgid "Save Package Download List..."
+msgstr "儲存套件下載清單..."
+
+#: libmuonapt/QAptActions.cpp:151
+#, kde-format
+msgctxt "@action"
+msgid "Download Packages From List..."
+msgstr "下載清單中的套件..."
+
+#: libmuonapt/QAptActions.cpp:160
+#, kde-format
+msgctxt "@action"
+msgid "Add Downloaded Packages"
+msgstr "新增已下載套件"
+
+#: libmuonapt/QAptActions.cpp:167
+#, kde-format
+msgctxt "@action"
+msgid "Save Installed Packages List..."
+msgstr "儲存已安裝套件清單..."
+
+#: libmuonapt/QAptActions.cpp:173
+#, kde-format
+msgctxt "@action::inmenu"
+msgid "History..."
+msgstr "歷史紀錄..."
+
+#: libmuonapt/QAptActions.cpp:179
+#, kde-format
+msgctxt "@action"
+msgid "Upgrade"
+msgstr "更新"
+
+#: libmuonapt/QAptActions.cpp:182
+#, kde-format
+msgctxt "Notification when a new version of Kubuntu is available"
+msgid "A new version of Kubuntu is available."
+msgstr "已經有新版本的 Kubuntu。"
+
+#: libmuonapt/QAptActions.cpp:226
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Markings As"
+msgstr "儲存標記為"
+
+#: libmuonapt/QAptActions.cpp:233 libmuonapt/QAptActions.cpp:258
+#: libmuonapt/QAptActions.cpp:282
+#, kde-kuit-format
+msgctxt "@label"
+msgid ""
+"The document could not be saved, as it was not possible to write to "
+"<filename>%1</filename>\n"
+"\n"
+"Check that you have write access to this file or that enough disk space is "
+"available."
+msgstr ""
+"無法儲存該文件，因為無法寫入 <filename>%1</filename>。\n"
+"\n"
+"請檢查您是否有此檔案的寫入權限或具有足夠的磁碟空間。"
+
+#: libmuonapt/QAptActions.cpp:251
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Installed Packages List As"
+msgstr "將已安裝套件清單另存為"
+
+#: libmuonapt/QAptActions.cpp:275
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Download List As"
+msgstr "將下載清單另存為"
+
+#: libmuonapt/QAptActions.cpp:297 libmuonapt/QAptActions.cpp:314
+#, kde-format
+msgctxt "@title:window"
+msgid "Open File"
+msgstr "開啟檔案"
+
+#: libmuonapt/QAptActions.cpp:322
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Could not mark changes. Please make sure that the file is a markings file "
+"created by either the Muon Package Manager or the Synaptic Package Manager."
+msgstr ""
+"無法標記變更。請確定該檔案是由 Muon 或 Synaptic 套件管理員所產生的標記檔。"
+
+#: libmuonapt/QAptActions.cpp:333
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose a Directory"
+msgstr "請選擇一個目錄"
+
+#: libmuonapt/QAptActions.cpp:356
+#, kde-format
+msgctxt "@label"
+msgid "%1 package was successfully added to the cache"
+msgid_plural "%1 packages were successfully added to the cache"
+msgstr[0] "已成功將 %1 個套件加入快取"
+
+#: libmuonapt/QAptActions.cpp:362
+#, kde-format
+msgctxt "@label"
+msgid ""
+"No valid packages could be found in this directory. Please make sure the "
+"packages are compatible with your computer and are at the latest version."
+msgstr ""
+"在此目錄中找不到合法的套件。請確定此套件與您的電腦相容，而且是最新的版本。"
+
+#: libmuonapt/QAptActions.cpp:366
+#, kde-format
+msgctxt "@title:window"
+msgid "Packages Could Not be Found"
+msgstr "有些套件找不到"
+
+#: libmuonapt/QAptActions.cpp:481
+#, kde-format
+msgctxt "@title:window"
+msgid "Package History"
+msgstr "套件歷史紀錄"
+
+#~ msgctxt "@label Easter Egg"
+#~ msgid "This Muon has super cow powers"
+#~ msgstr "Muon 有超強牛力！"
+
+#~ msgid "Show notifications for available updates"
+#~ msgstr "顯示可用更新通知"
+
+#~ msgid "Show the number of available updates"
+#~ msgstr "顯示可用更新數"
+
+#~ msgid "Bugs found"
+#~ msgstr "找到錯誤"
+
+#~ msgid "Checking for bugs..."
+#~ msgstr "檢查錯誤中..."
+
+#~ msgid "Cannot kill process"
+#~ msgstr "無法砍掉行程"
+
+#~ msgid ""
+#~ "PackageKit does not tell us a useful status right now! Its status is %1."
+#~ msgstr "PackageKit 並未告知目前正確的狀態。它回報的狀態是 %1。"
+
+#~ msgid "Muon Notification Daemon"
+#~ msgstr "Muon 通知伺服程式"
+
+#~ msgid "A Notification Daemon for Muon"
+#~ msgstr "Muon 的通知伺服程式"
+
+#~ msgid ""
+#~ "(C) 2013 Lukas Appelhans, (C) 2009-2012 Jonathan Thomas, (C) 2009 Harald "
+#~ "Sitter"
+#~ msgstr ""
+#~ "(C) 2013 Lukas Appelhans, (C) 2009-2012 Jonathan Thomas, (C) 2009 Harald "
+#~ "Sitter"
+
+#~ msgid "%1 update notifier"
+#~ msgstr "%1 更新通知器"
+
+#~ msgid "Muon %1 update notifier"
+#~ msgstr "Muon %1 更新通知器"
+
+#~ msgid "Open Muon..."
+#~ msgstr "開啟 Muon..."
+
+#~ msgid "Quit notifier..."
+#~ msgstr "離開通知器..."
+
+#~| msgid "A security update is available for your system!"
+#~ msgid "A security update is available for your system."
+#~ msgstr "您的系統有安全性更新。"
+
+#~ msgid "An update is available for your system!"
+#~ msgstr "您的系統有更新套件！"
+
+#~ msgid ""
+#~ "There are %1 updated packages, of which %2 were updated for security "
+#~ "reasons!"
+#~ msgstr "有 %1 個已更新套件，其中 %2 個為安全性更新。"
+
+#~| msgid "There are %1 update packages!"
+#~ msgid "There are %1 updated packages!"
+#~ msgstr "有 %1 個已更新套件。"
+
+#~ msgid "%1 packages were updated for security reasons"
+#~ msgstr "%1 個套件已因為安全性理由而更新"
+
+#~ msgid "A system update is recommended"
+#~ msgstr "建議更新系統"
+
+#~| msgid "System update available!"
+#~ msgid "System update available"
+#~ msgstr "系統有更新套件可用"
+
+#~ msgid "Your system is up-to-date!"
+#~ msgstr "您的系統已更新到最新狀態!"
+
+#~ msgid "No system update available"
+#~ msgstr "沒有可用的系統更新"
+
+#, fuzzy
+#~| msgid "Applications Backend"
+#~ msgid "Akabei Backend"
+#~ msgstr "應用程式後端介面"
+
+#, fuzzy
+#~| msgid "Applications in your system"
+#~ msgid "Chakra-Applications in your system"
+#~ msgstr "您的系統內的應用程式"
+
+#~ msgid "Applications Backend"
+#~ msgstr "應用程式後端介面"
+
+#~ msgid "Applications in your system"
+#~ msgstr "您的系統內的應用程式"
+
+#~ msgid "Bodega Backend"
+#~ msgstr "Bodega 後端介面"
+
+#~ msgid "Install Bodega data in your system"
+#~ msgstr "在您的系統中安裝 Bodega 資料"
+
+#~ msgid "Dummy Backend"
+#~ msgstr "虛擬後端介面"
+
+#~ msgid "Dummy backend to test muon frontends"
+#~ msgstr "測試 muon 前端介面用的虛擬後端介面"
+
+#~ msgid "KNewStuff Backend"
+#~ msgstr "KNewStuff 後端介面"
+
+#~ msgid "Install KNewStuff data in your system"
+#~ msgstr "在您的系統中安裝 KNewStuff 資料"
+
+#, fuzzy
+#~| msgid "Install Bodega data in your system"
+#~ msgid "Install PackageKit data in your system"
+#~ msgstr "在您的系統中安裝 Bodega 資料"
+
+#, fuzzy
+#~| msgctxt "@info Status information, widget title"
+#~| msgid "Finished"
+#~ msgid "Finished."
+#~ msgstr "已完成"
+
+#~ msgid "Available updates"
+#~ msgstr "可用更新"
+
+#~ msgid "Use both popups and tray icons"
+#~ msgstr "同時使用彈出式視窗與系統匣圖示"
+
+#~ msgid "Tray icons only"
+#~ msgstr "只用系統匣圖示"
+
+#~ msgid "Popup notifications only"
+#~ msgstr "只用彈出式視窗"
+
+#~ msgid "Enter %1 credentials"
+#~ msgstr "輸入 %1 認證資訊"
+
+#~ msgctxt "@info:status Progress text when done"
+#~ msgid "Done"
+#~ msgstr "完成"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "There are marked changes that have not yet been applied. Do you want to "
+#~ "save your changes or discard them?"
+#~ msgstr "有已標記但尚未套用的變更。您要儲存您的變更，還是要丟棄？"
+
+#~ msgctxt "@info:status"
+#~ msgid "Muon is making system changes"
+#~ msgstr "Muon 正在變更系統"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Changes could not be applied since some packages could not be downloaded."
+#~ msgstr "變更無法被套用，因為有些套件無法下載。"
+
+#~ msgctxt "@label"
+#~ msgid "The size of the downloaded items did not equal the expected size."
+#~ msgstr "下載項目的大小與預期不符。"
+
+#~ msgctxt "@title:window"
+#~ msgid "Size Mismatch"
+#~ msgstr "大小不符"
+
+#~ msgctxt "@label"
+#~ msgid "Unable to download the following packages:"
+#~ msgstr "無法下載以下的套件："
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Failed to download %1\n"
+#~ "%2\n"
+#~ "\n"
+#~ msgstr ""
+#~ "下載 %1 失敗\n"
+#~ "%2\n"
+#~ "\n"
+
+#~ msgctxt "@title:window"
+#~ msgid "Some Packages Could not be Downloaded"
+#~ msgstr "有些套件無法被下載"
+
+#~ msgctxt "@label Shows which package failed"
+#~ msgid "Package: %1"
+#~ msgstr "套件：%1"
+
+#~ msgctxt "@title:window"
+#~ msgid "Commit error"
+#~ msgstr "提交錯誤"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Muon always selects the most applicable version available. If you force a "
+#~ "different version from the default one, errors in the dependency handling "
+#~ "can occur."
+#~ msgstr ""
+#~ "Muon 會選擇最新可用的版本。若您要強制使用一個不同的版本，可能會有相依性處"
+#~ "理的問題發生。"
+
+#~ msgctxt "@action:button"
+#~ msgid "Force Version"
+#~ msgstr "強制使用別的版本"
+
+#~ msgctxt "@label Label preceding the package maintainer"
+#~ msgid "Maintainer:"
+#~ msgstr "維護者："
+
+#~ msgctxt "@label Label preceding the package category"
+#~ msgid "Category:"
+#~ msgstr "類別："
+
+#~ msgctxt "@label The parent package that this package comes from"
+#~ msgid "Source Package:"
+#~ msgstr "源碼套件："
+
+#~ msgctxt "@label The software source that this package comes from"
+#~ msgid "Origin:"
+#~ msgstr "原始："
+
+#~ msgctxt "@label Label preceding the package size"
+#~ msgid "Installed Size:"
+#~ msgstr "已安裝大小："
+
+#~ msgctxt "@title:group"
+#~ msgid "Available Version"
+#~ msgstr "可用版本"
+
+#~ msgctxt "@label"
+#~ msgid "Mark for:"
+#~ msgstr "標記為："
+
+#~ msgctxt "@action:button"
+#~ msgid "Installation"
+#~ msgstr "安裝"
+
+#~ msgctxt "@action:button"
+#~ msgid "Removal"
+#~ msgstr "移除"
+
+#~ msgctxt "@action:button"
+#~ msgid "Upgrade"
+#~ msgstr "更新"
+
+#~ msgctxt "@action:button"
+#~ msgid "Reinstallation"
+#~ msgstr "重新安裝"
+
+#~ msgctxt "@action:button"
+#~ msgid "Purge"
+#~ msgstr "徹底清除"
+
+#~ msgctxt "@action:button"
+#~ msgid "Unmark"
+#~ msgstr "取消標記"
+
+#~ msgctxt "@info Tells how long Canonical, Ltd. will support a package"
+#~ msgid "Canonical provides critical updates for %1 until %2."
+#~ msgstr "Canonical 提供 %1 的重要更新，直到 %2。"
+
+#~ msgctxt "@info Tells how long Canonical, Ltd. will support a package"
+#~ msgid ""
+#~ "Canonical does not provide updates for %1. Some updates may be provided "
+#~ "by the Ubuntu community."
+#~ msgstr "Canonical 不會提供 %1 的更新。有些更新可能會由 Ubuntu 社群提供。"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Dependencies of the Current Version"
+#~ msgstr "目前版本的相依性"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Dependencies of the Latest Version"
+#~ msgstr "最新版本的相依性"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Dependants (Reverse Dependencies)"
+#~ msgstr "被依賴套件"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Virtual Packages Provided"
+#~ msgstr "已提供的虛擬套件"
+
+#~ msgctxt "@label"
+#~ msgid "This package does not have any dependencies"
+#~ msgstr "此套件沒有任何相依套件"
+
+#~ msgctxt "@label"
+#~ msgid "This package has no dependents. (Nothing depends on it.)"
+#~ msgstr "此套件未被任何套件依賴。"
+
+#~ msgctxt "@label"
+#~ msgid "This package does not provide any virtual packages"
+#~ msgstr "此套件沒有提供任何虛擬套件"
+
+#~ msgctxt "@title:column"
+#~ msgid "Package"
+#~ msgstr "套件"
+
+#~ msgctxt "@title:column"
+#~ msgid "Size"
+#~ msgstr "大小"
+
+#~ msgctxt "@title:column"
+#~ msgid "Progress"
+#~ msgstr "進度"
+
+#~ msgctxt "@info:status Progress text when a download is ignored"
+#~ msgid "Ignored"
+#~ msgstr "已忽略"
+
+#~ msgid "Status"
+#~ msgstr "狀態"
+
+#~ msgid "Requested"
+#~ msgstr "已要求"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Mark for Installation"
+#~ msgstr "安裝標記"
+
+#~ msgctxt "@action:button"
+#~ msgid "Mark for Removal"
+#~ msgstr "移除標記"
+
+#~ msgctxt "@action:button"
+#~ msgid "Mark for Upgrade"
+#~ msgstr "更新標記"
+
+#~ msgctxt "@action:button"
+#~ msgid "Mark for Reinstallation"
+#~ msgstr "重新安裝標記"
+
+#~ msgctxt "@action:button"
+#~ msgid "Mark for Purge"
+#~ msgstr "徹底移除標記"
+
+#~ msgctxt "@action:button"
+#~ msgid "Lock Package at Current Version"
+#~ msgstr "將套件鎖定在目前版本"
+
+#~ msgctxt "@action:button"
+#~ msgid "Unlock package"
+#~ msgstr "解除鎖定套件"
+
+#~ msgctxt "@action:button"
+#~ msgid "Lock at Current Version"
+#~ msgstr " 鎖定在目前版本"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Removing this package may break your system. Are you sure you want to "
+#~ "remove it?"
+#~ msgstr "移除此套件可能會破壞您的系統。您確定要移除嗎？"
+
+#~ msgctxt "@label"
+#~ msgid "Warning - Removing Important Package"
+#~ msgstr "警告 - 移除重要套件"
+
+#~ msgctxt "@label"
+#~ msgid "The \"%1\" package could not be marked for installation or upgrade:"
+#~ msgstr "%1 套件無法被標記為安裝或更新："
+
+#~ msgctxt "@title:window"
+#~ msgid "Unable to Mark Package"
+#~ msgstr "無法標記套件"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The \"%1\" package has no available version, but exists in the database.\n"
+#~ "\tThis typically means that the package was mentioned in a dependency and "
+#~ "never uploaded, has been obsoleted, or is not available from the "
+#~ "currently-enabled repositories."
+#~ msgstr ""
+#~ "%1 套件沒有可用的版號，但是在資料庫中存在。\n"
+#~ "\t通常這表示套件被標記為相依套件但並未上傳，或是此套件已廢棄，或是在目前的"
+#~ "主目錄中並不存在。"
+
+#~ msgctxt "@label Example: Depends: libqapt 0.1, but 0.2 is to be installed"
+#~ msgid "%1: %2 %3, but %4 is to be installed"
+#~ msgstr "%1：%2 %3，但是將會安裝 %4"
+
+#~ msgctxt "@label Example: or libqapt 0.1, but 0.2 is to be installed"
+#~ msgid "or %1 %2, but %3 is to be installed"
+#~ msgstr "或是 %1 %2，但是將會安裝 %3"
+
+#~ msgctxt "@label Example: Depends: libqapt, but is not installable"
+#~ msgid "%1: %2, but it is not installable"
+#~ msgstr "%1：%2，但是無法安裝"
+
+#~ msgctxt "@label Example: or libqapt, but is not installable"
+#~ msgid "or %1, but is not installable"
+#~ msgstr "或是 %1，但是無法安裝"
+
+#~ msgctxt "@label Example: Depends: libqapt, but it is a virtual package"
+#~ msgid "%1: %2, but it is a virtual package"
+#~ msgstr "%1：%2，但是是個虛擬套件"
+
+#~ msgctxt "@label Example: or libqapt, but it is a virtual package"
+#~ msgid "or %1, but it is a virtual package"
+#~ msgstr "或是 %1，但是是個虛擬套件"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Details"
+#~ msgstr "詳細資料"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Technical Details"
+#~ msgstr "技術細節"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Dependencies"
+#~ msgstr "相依性"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Versions"
+#~ msgstr "版本"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Installed Files"
+#~ msgstr "已安裝檔案"
+
+#~ msgctxt "@label Download rate"
+#~ msgid "Download rate: %1/s"
+#~ msgstr "下載速度：%1/秒"
+
+#~ msgctxt "@info:status"
+#~ msgid "Rebuilding Search Index"
+#~ msgstr "重新建立搜尋索引"
+
+#~ msgctxt "@info:status"
+#~ msgid "%1 installed, "
+#~ msgstr "%1 個已安裝，"
+
+#~ msgctxt "@info:status"
+#~ msgid "%1 upgradeable,"
+#~ msgstr "%1 個可更新，"
+
+#~ msgctxt "@info:status"
+#~ msgid "%1 upgradeable"
+#~ msgstr "%1 個可更新"
+
+#~ msgctxt "@info:status Part of the status label"
+#~ msgid " %1 to install/upgrade"
+#~ msgstr "%1 個準備安裝或更新"
+
+#~ msgctxt ""
+#~ "@info:status Label for the number of packages pending removal when "
+#~ "packages are also pending upgrade"
+#~ msgid ", %1 to remove"
+#~ msgstr "，%1 個準備移除"
+
+#~ msgctxt ""
+#~ "@info:status Label for the number of packages pending removal when there "
+#~ "are only removals"
+#~ msgid " %1 to remove"
+#~ msgstr "%1 個準備移除"
+
+#~ msgctxt "@label showing download and install size"
+#~ msgid "%1 to download, %2 of space to be freed"
+#~ msgstr "%1 個準備下載，將釋放 %2 空間"
+
+#~ msgctxt "@item:intext Label for when the remaining time is unknown"
+#~ msgid " - Unknown time remaining"
+#~ msgstr " - 剩餘時間未知"
+
+#~ msgctxt "@action:button"
+#~ msgid "Get Screenshot..."
+#~ msgstr "取得螢幕快照..."
+
+#~ msgctxt "@title:window"
+#~ msgid "Screenshot"
+#~ msgstr "螢幕快照"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Upgrade"
+#~ msgstr "更新"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Purge"
+#~ msgstr "徹底清除"
+
+#~ msgctxt "@status describes a past-tense action"
+#~ msgid "Installed"
+#~ msgstr "已安裝"
